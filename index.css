@@ -292,7 +292,6 @@
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/thumb.jpg');
   background-repeat: no-repeat, no-repeat;
   background-size: cover, cover;
-  background-position: 50% 50%;
 }
 
 .u-section-4 .u-sheet-1 {
@@ -310,6 +309,10 @@
 }
 
 @media (max-width: 991px) {
+   .u-section-4 {
+    background-position: 50% 50%;
+  }
+
   .u-section-4 .u-sheet-1 {
     min-height: 264px;
   }
@@ -349,6 +352,7 @@
   width: 589px;
   height: 366px;
   object-position: 50% 35.38%;
+  --radius: 10px;
   margin: 90px 0 0 auto;
 }
 
@@ -579,7 +583,6 @@
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('images/ciacteam.jpg');
   background-repeat: no-repeat;
   background-size: cover, cover;
-  background-position: 50% 50%;
 }
 
 .u-section-6 .u-sheet-1 {
@@ -587,6 +590,10 @@
 }
 
 @media (max-width: 1199px) {
+   .u-section-6 {
+    background-position: 50% 50%;
+  }
+
   .u-section-6 .u-sheet-1 {
     min-height: 338px;
   }
@@ -599,10 +606,6 @@
 }
 
 @media (max-width: 767px) {
-   .u-section-6 {
-    background-position: 50% 50%;
-  }
-
   .u-section-6 .u-sheet-1 {
     min-height: 194px;
   }

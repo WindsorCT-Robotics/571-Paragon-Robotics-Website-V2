@@ -1,0 +1,264 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(11, 11, 11, 1), rgba(11, 11, 11, 1));
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 501px;
+}
+
+.u-section-1 .u-text-1 {
+  --text-color-var: #d02e2e;
+  font-weight: 700;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  text-decoration: underline !important;
+  margin: 44px auto 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 743px;
+  }
+} .u-section-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25));
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 682px;
+}
+
+.u-section-2 .u-text-1 {
+  --text-color-var: #d02e2e;
+  font-weight: 700;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  text-decoration: none solid rgb(208, 46, 46);
+  margin: 24px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  --text-color-var: #d02e2e;
+  font-weight: 700;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 1.875rem;
+  text-decoration: none solid rgb(208, 46, 46);
+  margin: 21px auto 0 119px;
+}
+
+.u-section-2 .u-text-3 {
+  --text-color-var: #d02e2e;
+  font-weight: 700;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 1.875rem;
+  text-decoration: none solid rgb(208, 46, 46);
+  margin: -33px auto 0;
+}
+
+.u-section-2 .u-text-4 {
+  --text-color-var: #d02e2e;
+  font-weight: 700;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 1.875rem;
+  text-decoration: none solid rgb(208, 46, 46);
+  margin: -33px 82px 0 auto;
+}
+
+.u-section-2 .u-image-1 {
+  width: 375px;
+  height: 55px;
+  margin: 112px auto 0 0;
+}
+
+.u-section-2 .u-image-2 {
+  --radius: 10px;
+  width: 500px;
+  height: 300px;
+  margin: -55px 36px 0 auto;
+}
+
+.u-section-2 .u-text-5 {
+  --text-color-var: #d02e2e;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  text-decoration: none solid rgb(208, 46, 46);
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: -202px auto 0 0;
+}
+
+.u-section-2 .u-shape-1 {
+  height: 3px;
+  margin-top: 125px;
+  margin-bottom: 32px;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-5 {
+    font-size: 1.875rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 581px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 75px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 50px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    height: 204px;
+    margin-top: -50px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-top: -106px;
+  }
+} .u-section-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25));
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 781px;
+}
+
+.u-section-3 .u-text-1 {
+  --text-color-var: #d02e2e;
+  font-weight: 700;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  text-decoration: none solid rgb(208, 46, 46);
+  margin: 24px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  --text-color-var: #d02e2e;
+  font-weight: 700;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 1.875rem;
+  text-decoration: none solid rgb(208, 46, 46);
+  margin: 21px auto 0 71px;
+}
+
+.u-section-3 .u-text-3 {
+  --text-color-var: #d02e2e;
+  font-weight: 700;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 1.875rem;
+  text-decoration: none solid rgb(208, 46, 46);
+  margin: -33px auto 0;
+}
+
+.u-section-3 .u-text-4 {
+  --text-color-var: #d02e2e;
+  font-weight: 700;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  font-size: 1.875rem;
+  text-decoration: none solid rgb(208, 46, 46);
+  margin: -33px 82px 0 auto;
+}
+
+.u-section-3 .u-text-5 {
+  --text-color-var: #d02e2e;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  text-decoration: none solid rgb(208, 46, 46);
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 210px auto 0 0;
+}
+
+.u-section-3 .u-image-1 {
+  width: 296px;
+  height: 168px;
+  margin: -335px auto 0 0;
+}
+
+.u-section-3 .u-image-2 {
+  --radius: 10px;
+  width: 406px;
+  height: 390px;
+  margin: -168px 98px 0 auto;
+}
+
+.u-section-3 .u-shape-1 {
+  height: 3px;
+  margin-top: 125px;
+  margin-bottom: 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-shape-1 {
+    margin-top: 160px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-5 {
+    font-size: 1.875rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 718px;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 340px;
+    height: 327px;
+    margin-top: -221px;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-shape-1 {
+    margin-top: 130px;
+  }
+}
