@@ -17,5 +17,5 @@ The following requires a Nicepage license for me to add to the website.
   - Remove "Made with Nicepage header"
   - Remove HTML link addresses
 
-For the 'Robots' Page I have a picture for every robot except for 2001 & 2022. I also don't have the names of our 2001, 2002, 2003, & 2022 robots.
+For the 'Robots' Page I don't have the names of our 2001, 2002, & 2003 robots.
 
